@@ -30,7 +30,7 @@ public class UserInterface {
 
     private void printMenu() {
         System.out.println("+-----------------------------------------------------------+");
-        System.out.println("| Choose option from 0 to 5:                                |");
+        System.out.println("| Choose option from 0 to 6:                                |");
         System.out.println("+-----------------------------------------------------------+");
         System.out.println("| 1.Print all apartments.                                   |");
         System.out.println("| 2.Print apartments within price range.                    |");
